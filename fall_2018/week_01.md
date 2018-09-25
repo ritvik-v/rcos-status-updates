@@ -1,22 +1,13 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
+> Narrowed down and compartmentalized aspects of the overall project into smaller committees. Learned about the overall scope and vision for the project - what we expect it to look like as a finished product, what we can anticipate at the end of this semester.
 
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+> Met as part of the backend committee - discussed potential technologies for us to utilize, whether to go serverless or not, how to represent students' work and commits.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+> Research into how Git stores changes between commits, and whether we might implement Git's solution or develop our own way to hash commits, and store them.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
-
 ## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
